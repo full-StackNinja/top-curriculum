@@ -41,3 +41,4 @@ This section contains helpful links to other content. It isn't required, so cons
 - [Wikipedia on Computer Science](http://en.wikipedia.org/wiki/Computer_science)
 - [Wikipedia on Algorithms](http://en.wikipedia.org/wiki/Algorithm)
 - [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
+- [Introduction to Computer Science](https://www.britannica.com/science/computer-science)
